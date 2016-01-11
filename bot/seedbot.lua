@@ -218,7 +218,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite"
-    },
+    sudo_users = {151706154},--sudo users
     sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
